@@ -56,35 +56,47 @@ I'm a **Generative AI Developer intern** at **Shine Nexa Technology**, also work
 
 ### 🛠 Tech Stack
 
-**Frontend**
+<div align="center">
+
+<sub><b>FRONTEND</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=8" />
 
-**WordPress & Web Dev**
+<br><br>
+
+<sub><b>WORDPRESS & WEB DEV</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=wordpress,php,mysql&perline=8" />
 <img src="https://img.shields.io/badge/Avada-334155?style=flat-square"/>
 <img src="https://img.shields.io/badge/Elementor-334155?style=flat-square&logo=elementor&logoColor=92003B"/>
 
-**Programming & Generative AI**
+<br><br>
+
+<sub><b>PROGRAMMING & GENERATIVE AI</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=python,java,git,github&perline=8" />
 <img src="https://img.shields.io/badge/Generative%20AI-334155?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-334155?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square&logo=fastapi&logoColor=009688"/>
 
-**Digital Marketing & SEO**
+<br><br>
+
+<sub><b>DIGITAL MARKETING & SEO</b></sub>
 <br>
 <img src="https://img.shields.io/badge/On--Page%20SEO-334155?style=flat-square&logo=google&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Google%20Search%20Console-334155?style=flat-square&logo=googlesearchconsole&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Yoast%20SEO-334155?style=flat-square&logo=yoast&logoColor=A4286A"/>
 <img src="https://img.shields.io/badge/Content%20SEO-334155?style=flat-square&logo=googleanalytics&logoColor=FF8500"/>
 
-**Tools**
+<br><br>
+
+<sub><b>TOOLS</b></sub>
 <br>
 <img src="https://skillicons.dev/icons?i=vscode,figma&perline=8" />
 <img src="https://img.shields.io/badge/XAMPP-334155?style=flat-square&logo=xampp&logoColor=FB7A24"/>
 <img src="https://img.shields.io/badge/Canva-334155?style=flat-square&logo=canva&logoColor=00C4CC"/>
+
+</div>
 
 <br>
 
